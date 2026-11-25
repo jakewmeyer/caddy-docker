@@ -12,6 +12,6 @@ https://github.com/mholt/caddy-ratelimit
 ## How to build
 
 ```text
-docker build --no-cache --pull -t jakewmeyer/caddy-docker:2.6.2 .
-docker push jakewmeyer/caddy-docker:2.6.2
+docker build --no-cache --pull -t jakewmeyer/caddy-docker:2.11.9 .
+docker push jakewmeyer/caddy-docker:2.11.9
 ```
